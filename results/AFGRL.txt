@@ -1,0 +1,24 @@
+dataset_adam -> ** [last epoch: 1] last NMI: 0.8739 **
+
+dataset_adam -> ** [last epoch: 1] last NMI: 0.8739 **
+
+dataset_adam -> ** [last epoch: 1] last NMI: 0.8739 **
+
+dataset_adam -> ** [last epoch: 1] last NMI: 0.7982 **
+
+dataset_adam -> ** [last epoch: 1] last NMI: 0.7982 **
+
+dataset_adam -> ** [last epoch: 4] last NMI: 0.7982 **
+
+dataset_adam -> ** [last epoch: 1] last NMI: 0.7982 **
+
+dataset_adam -> ** [last epoch: 1] last NMI: 0.7982 **
+
+dataset_adam -> ** [last epoch: 1] last NMI: 0.7976 **
+
+dataset_adam -> ** [last epoch: 300] last NMI: 0.7948 **
+
+dataset_adam -> ** [last epoch: 1] last NMI: 0.7976 **
+
+dataset_adam -> ** [last epoch: 1] last NMI: 0.7982 **
+
