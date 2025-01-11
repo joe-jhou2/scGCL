@@ -1,4 +1,4 @@
-# Team 5 DLH Final Project
+# scGCL: Graph contrastive Learning on scRNAseq data
 
 This repository is for the reproduced implementation of [scGCL: an imputation method for scRNA-seq data based on graph contrastive learning ](https://doi.org/10.1093/bioinformatics/btad098).
 
